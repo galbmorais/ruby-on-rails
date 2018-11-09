@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 2.4.4
 
 * System dependencies
 
@@ -17,8 +17,7 @@ Things you may want to cover:
 
 * How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+* Services (job queues, cache servers, search engines)
 
 * Deployment instructions
 
-* ...
